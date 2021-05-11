@@ -1,3 +1,3 @@
 # What-is-a-Repository
 practice
-Ok
+This version is better.
